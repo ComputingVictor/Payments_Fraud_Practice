@@ -46,7 +46,9 @@ This is a project for the subject Machine Learning of CUNEF Master´s in Data Sc
 
 - notebooks: Notebooks of the project.
 
-- models: Pickles of the different models. 
+- models: Pickles of the different models.
+
+- env: Requirements of the environment
 
 ## Authors
 
