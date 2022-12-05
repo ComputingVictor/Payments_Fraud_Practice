@@ -2,7 +2,8 @@
 
 <p align="center">
 
-![imagen_readme.jpeg](.\images\imagen_readme.jpg)
+![imagen_readme](https://user-images.githubusercontent.com/115224707/205710589-7cc74aca-e3b7-4df1-a7ee-549551ae7fe6.jpeg)
+
 
 </p>
 
