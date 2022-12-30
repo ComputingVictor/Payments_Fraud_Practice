@@ -42,8 +42,6 @@ This is a project for the subject Machine Learning of CUNEF Master´s in Data Sc
 
 - images: Pictures used in the differents notebooks.
 
-- html: Notebooks exported as html files.
-
 - notebooks: Notebooks of the project.
 
 - models: Pickles of the different models.
